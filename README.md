@@ -1,11 +1,11 @@
 Think Fast Game
 ===============
 
-#This is a game where the most fast player win.
-#This project is intent to show a real time webapp case using the HttpLongPoll technique.
-#The game makes more sense with two or more players
+###This is a game where the most fast player win.
+###This project is intent to show a real time webapp case using the HttpLongPoll technique.
+###The game makes more sense with two or more players
 
-#Framework Stack:
+###Framework Stack:
 1. Java (EE, JPA) (Specially HttpServlet Async support)
 2. Spring
 3. SpringMVC
@@ -15,6 +15,7 @@ Think Fast Game
 7. KnockoutJS
 
 #Run:
-`mvn clean install jetty:run`
+`mvn clean install`
+`mvn jetty:run`
 
 
